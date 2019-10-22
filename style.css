@@ -1,0 +1,45 @@
+*
+{
+    padding: 20px;
+}
+
+#proPic
+{
+    width: 200px;
+    height: 200px;
+}
+
+fieldset {
+    padding: 1em;
+    background: white;
+    text-align: right;
+}
+
+#submitsection {
+    padding: 0.5em;
+    text-align: center;
+    width: 200px;
+}
+
+#submitBtn {
+    float: none;
+}
+
+#placeholder {
+    margin: 20px;
+    padding: 5px;
+}
+
+a:link{
+    color: white;
+    background-color: red;
+    border-width: 2px;
+    border-style: solid;
+    border-color: blue;
+}
+
+a:visited
+{
+    color: white;
+    style: none;
+}
